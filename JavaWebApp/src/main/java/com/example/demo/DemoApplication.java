@@ -9,5 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
+	Stringn name = "bencollins"
 
+	system.out.print(name); print (name);
 }
